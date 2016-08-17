@@ -1,0 +1,11 @@
+.Red{
+  border:1px solid red;
+}
+.Blue{
+  border:1px solid blue;
+}
+#border{
+  margin:5px;
+  width: 282px;
+
+}
